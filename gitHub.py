@@ -1,4 +1,4 @@
-from gitHubUserInfo import username,password
+from githubUserInfo import username,password
 from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys
@@ -16,6 +16,10 @@ class GitHub:
         time.sleep(2)
         self.browser.find_element_by_xpath("//*[@id='login']/div[4]/form/input[14]").click()
 
+    def follow(self,user):
+        user = self.browser.get(f"https://github.com/{user}")
+        time.sleep(1)
+        userProfile = self.browser.find_element_by_xpath("//*[@id='js-pjax-container']/div[2]/div/div[1]/div/div[4]/div[1]/div/div[1]/span/form[1]/input[2]").click()
     def loadFollowers(self):
         followers = self.browser.find_elements_by_css_selector(".d-table.table-fixed")
         for i in followers:
@@ -26,8 +30,10 @@ class GitHub:
         time.sleep(2)
         self.loadFollowers()
 
+
 github = GitHub(username,password)
 github.signIn()
 github.getFollowers()
 print("number of followers: "+ str(len(github.followers)))
 print(github.followers)
+github.follow("Sedatdynn")
