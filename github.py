@@ -1,4 +1,4 @@
-from gitHubUserInfo import username,password
+from githubUserInfo import username,password
 from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys
