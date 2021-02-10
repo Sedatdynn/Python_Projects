@@ -1,0 +1,252 @@
+Company name:Larsen & Toubro Infotech Ltd. -Location:Mumbai. -Job:Python. -Experience: 7 - 10 yrs 
+-skills:python  ,  django  ,  RESTful APIs
+-Description:Must have : 7  years of relevant experience in a python development. Strong problem-solving skills Experience building and operationalizing a python API Built an analytical mo... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-larsen-toubro-infotech-ltd-mumbai-7-to-10-yrs-jobid-q9ZJwdixqGVzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:3RI Technologies Pvt Ltd. -Location:Pune. -Job:Python. -Experience: 1 - 4 yrs 
+-skills:python scripting  ,  xml  ,  pl  /  sql  ,  python  ,  openerp
+-Description:Python ( Freshers ) Roles  &  Responsibilities :Design ,  Development and testing of Odoo ( OpenERP )  addons ,  projects ,  products and interfaces.interact with customers an... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-3ri-technologies-pvt-ltd-pune-1-to-4-yrs-jobid-xU__PLUS__12GKBMeBzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:3RI Technologies Pvt Ltd. -Location:Pune. -Job:Python. -Experience: 0 - 3 yrs 
+-skills:algorithms  ,  python  ,  django  ,  data structures  ,  mysql  ,  sql
+-Description:Job Requirement  /  DescriptionStrong understanding of Data Structures and algorithmsStrong knowledge of PythonStrong knowledge of Databases  ( SQL ,  MySql ) Strong knowledge... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-3ri-technologies-pvt-ltd-pune-0-to-3-yrs-jobid-NUo__PLUS__Yh8xWVdzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:INFOWIZ Software Solutions. -Location:Chandigarh. -Job:Python. -Experience: 3 - 4 yrs 
+-skills:python  ,  django  ,  git  ,  html5  ,  debugging  ,  svn  ,  javascript
+-Description:We are looking for an experienced Python Developer ( minimum 3-4 years ) .You will be responsible for smooth running and innovative web applications and software products.Job ... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-infowiz-software-solutions-chandigarh-3-to-4-yrs-jobid-fnXnqSfE3GNzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Larsen & Toubro Infotech Ltd. -Location:Mumbai. -Job:Python. -Experience: 5 - 8 yrs 
+-skills:python  ,  bi  ,  sql  ,  visual studio  ,  database  ,  ssrs
+-Description:5 yrs exp in Python as primary skill and PowerBILocation: INCompany: Larsen  &  Toubro Infotech Ltd 5  years of experience with Python  Microsoft Business Intelligence Stack h... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-larsen-toubro-infotech-ltd-mumbai-5-to-8-yrs-jobid-Sx9HRKKoMb1zpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Surya Informatics Solutions Pvt. Ltd.. -Location:Chennai. -Job:Python. -Experience: 0 - 3 yrs 
+-skills:python  ,  web technologies  ,  linux  ,  mobile  ,  mysql  ,  angularjs  ,  javascript
+-Description:POSITION: Python Developer ELIGIBILITY: FRESHERS Your RoleUnderstand requirements and participate in project road map discussions in order to design ,  estimate ,  and deliver... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-surya-informatics-solutions-pvt-ltd-chennai-0-to-3-yrs-jobid-UVlLes58wutzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:radical technologies. -Location:Pune. -Job:Python. -Experience: 0 - 3 yrs 
+-skills:web application  ,  test automation  ,  test cases  ,  software development life cycle  ,  selenium  ,  xml  ,  debugging  ,  automation testing  ,  testing  ,  stlc  ,  individual contributor  ,  sdlc
+-Description:Additionally:Should have of hands-on experience as a Python automationExperience in testing both web application and API automation testingBasics of Selenium / automation test... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-radical-technologies-pune-0-to-3-yrs-jobid-R3z3ED2FiHJzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:GEMINI SOFTWARE SOLUTIONS. -Location:Gurgaon. -Job:QA Python / Python SDET. -Experience: 4 - 7 yrs 
+-skills:python  ,  mobile  ,  svn  ,  nosql  ,  python scripting  ,  git  ,  sql database
+-Description:4  Years GurgaonB.TechRequired Skills 4   years of software quality assurance experienceExperience on creating Framework For Test Automation.Good knowledge of Python Scripting... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-software-solutions-gurgaon-4-to-7-yrs-jobid-jsOuZLK8chlzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Gemini Solutions. -Location:Gurgaon. -Job:QA Python / Python SDET. -Experience: 4 - 7 yrs 
+-skills:python  ,  mobile  ,  svn  ,  nosql  ,  python scripting  ,  git  ,  api  ,  sql database
+-Description:4  Years GurgaonB.TechRequired Skills 4   years of software quality assurance experienceExperience on creating Framework For Test Automation.Good knowledge of Python Scripting... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-solutions-gurgaon-4-to-7-yrs-jobid-eGMLzwOk2QlzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:RESEARCH DEVELOPERS
+     (More Jobs). -Location:(More Jobs) . -Job:Python Developer , Python Programmer. -Experience: 0 - 3 yrs 
+-skills:python  ,  research
+-Description:Excellent understanding of machine learning techniques and algorithms ,  such as k-NN ,  Naive Bayes ,  SVM ,  Decision Forests ,  etc.Experience with common data science tool... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-python-programmer-research-developers-delhi-delhi-ncr-noida-greater-noida-0-to-3-yrs-jobid-3MUarDWEYwBzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:iBoson Innovations. -Location:Thiruvananthapuram. -Job:Python Developer. -Experience: 2 - 5 yrs 
+-skills:python  ,  oops  ,  storage  ,   knowledge of python
+-Description:We are looking for python developers to join our engineering team and be responsible for creating dynamic software products.Responsible for , Writing reusable code in the pyth... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-iboson-innovations-thiruvananthapuram-2-to-5-yrs-jobid-PnlAN237e6pzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Pleasant Inc. -Location:Surat. -Job:Python Developer. -Experience: 0 - 3 yrs 
+-skills:python  ,  technologymanagement  ,  bpm
+-Description:Python DeveloperJob Position DetailsWhat You Will Be Doing You will Work in team environment and learn software development life cycleYou will learn new technologies and devel... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-pleasant-inc-surat-0-to-3-yrs-jobid-lNLD0zTZvBZzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Pleasant Inc. -Location:Surat. -Job:Python Developer. -Experience: 0 - 3 yrs 
+-skills:python  ,  technologymanagement  ,  bpm
+-Description:Python DeveloperJob Position DetailsWhat You Will Be Doing You will Work in team environment and learn software development life cycleYou will learn new technologies and devel... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-pleasant-inc-surat-0-to-3-yrs-jobid-V2vaoZWW01pzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Visionpix Technologies LLP. -Location:Bengaluru / Bangalore. -Job:Python Developer. -Experience: 4 - 10 yrs 
+-skills:python  ,  oops  ,  technical skills  ,
+-Description:Job - Python DeveloperSkills : Python ,  OOPsLocation : BangloreEducation : Be ,  MCASalary : 15 - 18 LakhsExperience : 4 - 10 YearsJob Description :Strong Python developer wh... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-visionpix-technologies-llp-bengaluru-bangalore-4-to-10-yrs-jobid-EAoyvX9td4pzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:TandA HR Solutions. -Location:Mohali. -Job:Python Developer. -Experience: 3 - 5 yrs 
+-skills:Django framework  ,  Python Developer  ,  core python
+-Description:Hiring for Python Developer for Females in MNC Company for Mohali locationProfile  Python DeveloperExperience  3 to 5 yearsLocation  MohaliGender Preference  FemaleQualificati... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-mohali-3-to-5-yrs-jobid-GTT0grHZP1tzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:METADESIGN SOLUTIONS. -Location:Gurgaon. -Job:Python Developer. -Experience: 2 - 5 yrs 
+-skills:python  ,  django  ,  html5  ,  javascript
+-Description:Python DeveloperExperience: 2 - 5 yearsNo of Openings: 2Location: GurgaonJob Description:Expert in Python ,  with knowledge of at least one Python web framework  ( such as Dja... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-metadesign-solutions-gurgaon-2-to-5-yrs-jobid-2HZFYHdprdhzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:PRATHIGNA BUILDTECH PRIVATE LIMITED. -Location:Bengaluru / Bangalore. -Job:Python developer. -Experience: 3 - 6 yrs 
+-skills:fundamentals  ,  python  ,  django  ,  oops  ,  html
+-Description:Python developer3 Years - 8 MonthsJob DescriptionRole: Python developer Experience:3 to 8yrs Skills: Python developer ,  Django ,  HTML ,  Django Framework Job Description: St... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-prathigna-buildtech-private-limited-bengaluru-bangalore-3-to-6-yrs-jobid-143RO9jMsYxzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:SEVEN CONSULTANCY. -Location:Navi Mumbai,  Mumbai,  Thane. -Job:Python Developer. -Experience: 1 - 3 yrs 
+-skills:rest  ,  python  ,  storage
+-Description:JOB DETAILS1.Understand fundamental design principles and best practices for developing REST APIs and web applications2.Gather requirements ,  scope functionality ,  estimate ... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-navi-mumbai-mumbai-thane-1-to-3-yrs-jobid-Onhi0Onyo79zpSvf__PLUS__uAgZw==&source=srp
+
+Company name:APPLYCUP HIRING SOLUTIONS LLP. -Location:Surat. -Job:Python Developer. -Experience: 3 - 5 yrs 
+-skills:python   ,  Django  ,   Object Relational Mapper
+-Description:Qualification : B.Tech / B.E. - Any Specialization ,  M.Tech - Any Specialization ,  MCA - Computers Experience : 3 - 5 YearsSkills : -Expert in Python ,  with knowledge of at... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-surat-3-to-5-yrs-jobid-uj9JLhqjw6dzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:APPLYCUP HIRING SOLUTIONS LLP. -Location:Pune. -Job:Python Trainer. -Experience: 4 - 6 yrs 
+-skills:python  ,  web technologies  ,  web technologies
+-Description:Python TrainerPune ,  MaharashtraQualification : BE /  ME /  BCA /  MCA- Any Computer /  IT Degree Experience : 4 - 6 YearsSkills : Trainer ,  Python ,  Core PythonJob Descrip... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-trainer-applycup-hiring-solutions-llp-pune-4-to-6-yrs-jobid-3V1Biww1YVJzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:zenga tv. -Location:Gurgaon. -Job:Python Developer. -Experience: 2 - 5 yrs 
+-skills:python  ,  django  ,  html5  ,  javascript
+-Description:Python Developer > GurgaonPositions: 4 Experience Required: 2  Years Responsibilities :Translate application storyboards and use cases into functional applicationsDesign ,  bu... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-zenga-tv-gurgaon-2-to-5-yrs-jobid-__PLUS__GAu6f5FqwdzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Ruboid Technologies. -Location:Bengaluru / Bangalore. -Job:Python Developer. -Experience: 4 - 6 yrs 
+-skills:python  ,  docker  ,  apache  ,  software developer
+-Description:1. Building efficient server-side applications2. Integrating front-end components into applications3. Guiding and mentoring team4. L3 support of the product5. Good understandi... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-ruboid-technologies-bengaluru-bangalore-4-to-6-yrs-jobid-8oehC59krARzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Analytics Vidhya. -Location:Gurgaon. -Job:Python Developer. -Experience: 5 - 8 yrs 
+-skills:python  ,  css  ,  html5  ,  html  ,  ajax  ,  javascript
+-Description:Python Developer- Gurgaon-  ( 3  Years of Experience ) Python Developer- Gurgaon-  ( 3  Years of Experience )  A Client of Analytics VidhyaGurugram INR 3 - 10 LPA Experience :... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-analytics-vidhya-gurgaon-5-to-8-yrs-jobid-XJy6NVLtkpNzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Ukbit Solutions. -Location:Hyderabad/Secunderabad. -Job:Python Developers. -Experience: 3 - 5 yrs 
+-skills:python  ,  html5  ,  javascript  ,  security  ,  django  ,  debugging
+-Description:Job brief: Python Developer responsibilities include writing and testing code ,  debugging programs and integrating applications with third-party web services. To be successfu... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developers-ukbit-solutions-hyderabad-secunderabad-3-to-5-yrs-jobid-MB27e0y0D__PLUS__pzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Linkites Infotech Pvt Ltd. -Location:Indore. -Job:Python Developer. -Experience: 0 - 3 yrs 
+-skills:python  ,  django  ,  html5  ,  mobile  ,  javascript
+-Description:SKILLSPython / Django development experience.proficient with HTML5 ,  CSS3 ,  and JavaScript.Clear understanding of HTTP and RESTful APIs.Experience with JavaScript frameworks... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-linkites-infotech-pvt-ltd-indore-0-to-3-yrs-jobid-eNV1Munm2gZzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Larsen & Toubro Infotech Ltd. -Location:Mumbai. -Job:Python. -Experience: 7 - 10 yrs 
+-skills:python  ,  django  ,  RESTful APIs
+-Description:Must have : 7  years of relevant experience in a python development. Strong problem-solving skills Experience building and operationalizing a python API Built an analytical mo... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-larsen-toubro-infotech-ltd-mumbai-7-to-10-yrs-jobid-q9ZJwdixqGVzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:3RI Technologies Pvt Ltd. -Location:Pune. -Job:Python. -Experience: 1 - 4 yrs 
+-skills:python scripting  ,  xml  ,  pl  /  sql  ,  python  ,  openerp
+-Description:Python ( Freshers ) Roles  &  Responsibilities :Design ,  Development and testing of Odoo ( OpenERP )  addons ,  projects ,  products and interfaces.interact with customers an... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-3ri-technologies-pvt-ltd-pune-1-to-4-yrs-jobid-xU__PLUS__12GKBMeBzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:3RI Technologies Pvt Ltd. -Location:Pune. -Job:Python. -Experience: 0 - 3 yrs 
+-skills:algorithms  ,  python  ,  django  ,  data structures  ,  mysql  ,  sql
+-Description:Job Requirement  /  DescriptionStrong understanding of Data Structures and algorithmsStrong knowledge of PythonStrong knowledge of Databases  ( SQL ,  MySql ) Strong knowledge... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-3ri-technologies-pvt-ltd-pune-0-to-3-yrs-jobid-NUo__PLUS__Yh8xWVdzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:INFOWIZ Software Solutions. -Location:Chandigarh. -Job:Python. -Experience: 3 - 4 yrs 
+-skills:python  ,  django  ,  git  ,  html5  ,  debugging  ,  svn  ,  javascript
+-Description:We are looking for an experienced Python Developer ( minimum 3-4 years ) .You will be responsible for smooth running and innovative web applications and software products.Job ... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-infowiz-software-solutions-chandigarh-3-to-4-yrs-jobid-fnXnqSfE3GNzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Larsen & Toubro Infotech Ltd. -Location:Mumbai. -Job:Python. -Experience: 5 - 8 yrs 
+-skills:python  ,  bi  ,  sql  ,  visual studio  ,  database  ,  ssrs
+-Description:5 yrs exp in Python as primary skill and PowerBILocation: INCompany: Larsen  &  Toubro Infotech Ltd 5  years of experience with Python  Microsoft Business Intelligence Stack h... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-larsen-toubro-infotech-ltd-mumbai-5-to-8-yrs-jobid-Sx9HRKKoMb1zpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Surya Informatics Solutions Pvt. Ltd.. -Location:Chennai. -Job:Python. -Experience: 0 - 3 yrs 
+-skills:python  ,  web technologies  ,  linux  ,  mobile  ,  mysql  ,  angularjs  ,  javascript
+-Description:POSITION: Python Developer ELIGIBILITY: FRESHERS Your RoleUnderstand requirements and participate in project road map discussions in order to design ,  estimate ,  and deliver... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-surya-informatics-solutions-pvt-ltd-chennai-0-to-3-yrs-jobid-UVlLes58wutzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:radical technologies. -Location:Pune. -Job:Python. -Experience: 0 - 3 yrs 
+-skills:web application  ,  test automation  ,  test cases  ,  software development life cycle  ,  selenium  ,  xml  ,  debugging  ,  automation testing  ,  testing  ,  stlc  ,  individual contributor  ,  sdlc
+-Description:Additionally:Should have of hands-on experience as a Python automationExperience in testing both web application and API automation testingBasics of Selenium / automation test... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-radical-technologies-pune-0-to-3-yrs-jobid-R3z3ED2FiHJzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:GEMINI SOFTWARE SOLUTIONS. -Location:Gurgaon. -Job:QA Python / Python SDET. -Experience: 4 - 7 yrs 
+-skills:python  ,  mobile  ,  svn  ,  nosql  ,  python scripting  ,  git  ,  sql database
+-Description:4  Years GurgaonB.TechRequired Skills 4   years of software quality assurance experienceExperience on creating Framework For Test Automation.Good knowledge of Python Scripting... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-software-solutions-gurgaon-4-to-7-yrs-jobid-jsOuZLK8chlzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Gemini Solutions. -Location:Gurgaon. -Job:QA Python / Python SDET. -Experience: 4 - 7 yrs 
+-skills:python  ,  mobile  ,  svn  ,  nosql  ,  python scripting  ,  git  ,  api  ,  sql database
+-Description:4  Years GurgaonB.TechRequired Skills 4   years of software quality assurance experienceExperience on creating Framework For Test Automation.Good knowledge of Python Scripting... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-solutions-gurgaon-4-to-7-yrs-jobid-eGMLzwOk2QlzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:RESEARCH DEVELOPERS
+     (More Jobs). -Location:(More Jobs) . -Job:Python Developer , Python Programmer. -Experience: 0 - 3 yrs 
+-skills:python  ,  research
+-Description:Excellent understanding of machine learning techniques and algorithms ,  such as k-NN ,  Naive Bayes ,  SVM ,  Decision Forests ,  etc.Experience with common data science tool... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-python-programmer-research-developers-delhi-delhi-ncr-noida-greater-noida-0-to-3-yrs-jobid-3MUarDWEYwBzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:iBoson Innovations. -Location:Thiruvananthapuram. -Job:Python Developer. -Experience: 2 - 5 yrs 
+-skills:python  ,  oops  ,  storage  ,   knowledge of python
+-Description:We are looking for python developers to join our engineering team and be responsible for creating dynamic software products.Responsible for , Writing reusable code in the pyth... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-iboson-innovations-thiruvananthapuram-2-to-5-yrs-jobid-PnlAN237e6pzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Pleasant Inc. -Location:Surat. -Job:Python Developer. -Experience: 0 - 3 yrs 
+-skills:python  ,  technologymanagement  ,  bpm
+-Description:Python DeveloperJob Position DetailsWhat You Will Be Doing You will Work in team environment and learn software development life cycleYou will learn new technologies and devel... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-pleasant-inc-surat-0-to-3-yrs-jobid-lNLD0zTZvBZzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Pleasant Inc. -Location:Surat. -Job:Python Developer. -Experience: 0 - 3 yrs 
+-skills:python  ,  technologymanagement  ,  bpm
+-Description:Python DeveloperJob Position DetailsWhat You Will Be Doing You will Work in team environment and learn software development life cycleYou will learn new technologies and devel... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-pleasant-inc-surat-0-to-3-yrs-jobid-V2vaoZWW01pzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Visionpix Technologies LLP. -Location:Bengaluru / Bangalore. -Job:Python Developer. -Experience: 4 - 10 yrs 
+-skills:python  ,  oops  ,  technical skills  ,
+-Description:Job - Python DeveloperSkills : Python ,  OOPsLocation : BangloreEducation : Be ,  MCASalary : 15 - 18 LakhsExperience : 4 - 10 YearsJob Description :Strong Python developer wh... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-visionpix-technologies-llp-bengaluru-bangalore-4-to-10-yrs-jobid-EAoyvX9td4pzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:TandA HR Solutions. -Location:Mohali. -Job:Python Developer. -Experience: 3 - 5 yrs 
+-skills:Django framework  ,  Python Developer  ,  core python
+-Description:Hiring for Python Developer for Females in MNC Company for Mohali locationProfile  Python DeveloperExperience  3 to 5 yearsLocation  MohaliGender Preference  FemaleQualificati... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-mohali-3-to-5-yrs-jobid-GTT0grHZP1tzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:METADESIGN SOLUTIONS. -Location:Gurgaon. -Job:Python Developer. -Experience: 2 - 5 yrs 
+-skills:python  ,  django  ,  html5  ,  javascript
+-Description:Python DeveloperExperience: 2 - 5 yearsNo of Openings: 2Location: GurgaonJob Description:Expert in Python ,  with knowledge of at least one Python web framework  ( such as Dja... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-metadesign-solutions-gurgaon-2-to-5-yrs-jobid-2HZFYHdprdhzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:PRATHIGNA BUILDTECH PRIVATE LIMITED. -Location:Bengaluru / Bangalore. -Job:Python developer. -Experience: 3 - 6 yrs 
+-skills:fundamentals  ,  python  ,  django  ,  oops  ,  html
+-Description:Python developer3 Years - 8 MonthsJob DescriptionRole: Python developer Experience:3 to 8yrs Skills: Python developer ,  Django ,  HTML ,  Django Framework Job Description: St... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-prathigna-buildtech-private-limited-bengaluru-bangalore-3-to-6-yrs-jobid-143RO9jMsYxzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:SEVEN CONSULTANCY. -Location:Navi Mumbai,  Mumbai,  Thane. -Job:Python Developer. -Experience: 1 - 3 yrs 
+-skills:rest  ,  python  ,  storage
+-Description:JOB DETAILS1.Understand fundamental design principles and best practices for developing REST APIs and web applications2.Gather requirements ,  scope functionality ,  estimate ... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-navi-mumbai-mumbai-thane-1-to-3-yrs-jobid-Onhi0Onyo79zpSvf__PLUS__uAgZw==&source=srp
+
+Company name:APPLYCUP HIRING SOLUTIONS LLP. -Location:Surat. -Job:Python Developer. -Experience: 3 - 5 yrs 
+-skills:python   ,  Django  ,   Object Relational Mapper
+-Description:Qualification : B.Tech / B.E. - Any Specialization ,  M.Tech - Any Specialization ,  MCA - Computers Experience : 3 - 5 YearsSkills : -Expert in Python ,  with knowledge of at... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-applycup-hiring-solutions-llp-surat-3-to-5-yrs-jobid-uj9JLhqjw6dzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:APPLYCUP HIRING SOLUTIONS LLP. -Location:Pune. -Job:Python Trainer. -Experience: 4 - 6 yrs 
+-skills:python  ,  web technologies  ,  web technologies
+-Description:Python TrainerPune ,  MaharashtraQualification : BE /  ME /  BCA /  MCA- Any Computer /  IT Degree Experience : 4 - 6 YearsSkills : Trainer ,  Python ,  Core PythonJob Descrip... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-trainer-applycup-hiring-solutions-llp-pune-4-to-6-yrs-jobid-3V1Biww1YVJzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:zenga tv. -Location:Gurgaon. -Job:Python Developer. -Experience: 2 - 5 yrs 
+-skills:python  ,  django  ,  html5  ,  javascript
+-Description:Python Developer > GurgaonPositions: 4 Experience Required: 2  Years Responsibilities :Translate application storyboards and use cases into functional applicationsDesign ,  bu... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-zenga-tv-gurgaon-2-to-5-yrs-jobid-__PLUS__GAu6f5FqwdzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Ruboid Technologies. -Location:Bengaluru / Bangalore. -Job:Python Developer. -Experience: 4 - 6 yrs 
+-skills:python  ,  docker  ,  apache  ,  software developer
+-Description:1. Building efficient server-side applications2. Integrating front-end components into applications3. Guiding and mentoring team4. L3 support of the product5. Good understandi... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-ruboid-technologies-bengaluru-bangalore-4-to-6-yrs-jobid-8oehC59krARzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Analytics Vidhya. -Location:Gurgaon. -Job:Python Developer. -Experience: 5 - 8 yrs 
+-skills:python  ,  css  ,  html5  ,  html  ,  ajax  ,  javascript
+-Description:Python Developer- Gurgaon-  ( 3  Years of Experience ) Python Developer- Gurgaon-  ( 3  Years of Experience )  A Client of Analytics VidhyaGurugram INR 3 - 10 LPA Experience :... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-analytics-vidhya-gurgaon-5-to-8-yrs-jobid-XJy6NVLtkpNzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Ukbit Solutions. -Location:Hyderabad/Secunderabad. -Job:Python Developers. -Experience: 3 - 5 yrs 
+-skills:python  ,  html5  ,  javascript  ,  security  ,  django  ,  debugging
+-Description:Job brief: Python Developer responsibilities include writing and testing code ,  debugging programs and integrating applications with third-party web services. To be successfu... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developers-ukbit-solutions-hyderabad-secunderabad-3-to-5-yrs-jobid-MB27e0y0D__PLUS__pzpSvf__PLUS__uAgZw==&source=srp
+
+Company name:Linkites Infotech Pvt Ltd. -Location:Indore. -Job:Python Developer. -Experience: 0 - 3 yrs 
+-skills:python  ,  django  ,  html5  ,  mobile  ,  javascript
+-Description:SKILLSPython / Django development experience.proficient with HTML5 ,  CSS3 ,  and JavaScript.Clear understanding of HTTP and RESTful APIs.Experience with JavaScript frameworks... More Details
+-Link for more info:https://www.timesjobs.com/job-detail/python-developer-linkites-infotech-pvt-ltd-indore-0-to-3-yrs-jobid-eNV1Munm2gZzpSvf__PLUS__uAgZw==&source=srp
+
